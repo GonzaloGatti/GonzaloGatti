@@ -2,9 +2,9 @@
   <h1 align="center">Bienvenido al perfil de <a href="https://github.com/MrBlueBird2">Gonzalo Gatti</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
 <p align="center">
-  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Front+end+developer;I'm+a+competitive+programmer;I'm+a+Flask+developer" /></a>
+  <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=F72EE2&size=25&lines=Bienvenido+a+mi+perfil+de+GitHub!;Soy+desarrollador+front-end;Me+encanta+aprender+nuevas+tecnologías;Soy+desarrollador+de+React" /></a>
 </p>
-<p>Soy desarrollador front-end, apasionado por la programacion y la informática</p>
+<p>Soy desarrollador front-end, apasionado por la programación y la informática</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hola, soy @gonza_gatti</li>
@@ -18,9 +18,9 @@
 ```javascript
 const gonza = {
   pronombres: "él" | "su",
-  code: ["HTML", "CSS", "JS", "C"],
-  askMeAbout: ["web dev", "frontend dev", "react", "teconología"],
-  technologies: {
+  codigo: ["HTML", "CSS", "JS", "C"],
+  preguntameSobre: ["desarrollo web", "frdesarrollo front-end", "react", "teconología"],
+  tecnologias: {
       front-end: ["TYPESCRIPT", "REACT", "TAILWINDCSS", "NEXTJS"],
       back-end: ["NODE"],
   }
