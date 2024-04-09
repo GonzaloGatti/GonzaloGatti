@@ -1,7 +1,7 @@
 <p align="center">
   <h1 align="center">Bienvenido al perfil de <a href="https://github.com/MrBlueBird2">Gonzalo Gatti</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </p>
-<p>Soy desarrollador front-end, apasionado por la programación y la informática</p>
+<p>Desarrollador front-end, apasionado por la programación y la informática.</p>
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hola, soy @gonza_gatti</li>
