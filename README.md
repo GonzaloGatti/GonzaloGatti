@@ -13,7 +13,7 @@
 
 #### Un poco más acerca de mi
 ```javascript
-const gonza = {
+const gonzalo = {
   pronombres: "él" | "su",
   codigo: ["HTML", "CSS", "JS", "C"],
   preguntameSobre: ["desarrollo web", "frdesarrollo front-end", "react", "teconología"],
