@@ -7,8 +7,8 @@
   <li>👋 Hola, soy @gonza_gatti</li>
   <li>❤️ Me encanta crear sitios web con React.</li>
   <li>🌱 Actualmente me encuentro estudiando Ingeniería Informática.</li>
-  <li>💼 Soy un desarrollador front-end trainee.</li>
-  <li>🧐 Portafolio Website, </li>
+  <li>💼 Desarrollador front-end trainee.</li>
+  <li>🧐 Portafolio:  </li>
 </ul>
 
 #### Un poco más acerca de mi
