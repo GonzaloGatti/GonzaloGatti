@@ -25,7 +25,7 @@ const gonzalo = {
 ```
 
 #### Proyectos Populares
-<a href="https://github.com/MrBlueBird2/to-do-list-flask">
+<a href="https://github.com/GonzaloGatti/teslo-shop">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=to-do-list-flask&theme=onedark" />
 </a>    
