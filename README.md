@@ -29,9 +29,9 @@ const gonzalo = {
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloGatti&repo=teslo-shop&theme=onedark" />
 </a>    
-<a href="https://github.com/mrbluebird2/mrbluebird2.github.io">
+<a href="https://github.com/GonzaloGatti/calendar-fronted">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=MrBlueBird2&repo=mrbluebird2.github.io&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloGatti&repo=calendar-frontend&theme=onedark"/>
 </a>
 
 
