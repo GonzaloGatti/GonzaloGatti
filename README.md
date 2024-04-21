@@ -31,7 +31,7 @@ const gonzalo = {
 </a>    
 <a href="https://github.com/GonzaloGatti/calendar-fronted">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloGatti&repo=calendar-frontend&theme=onedark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=GonzaloGatti&repo=calendar-fronted&theme=onedark"/>
 </a>
 
 
