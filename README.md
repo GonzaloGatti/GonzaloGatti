@@ -5,7 +5,7 @@
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif">
 <ul>
   <li>👋 Hola, soy @gonza_gatti</li>
-  <li>❤️ Me encanta crear sitios web con React.</li>
+  <li>❤️Creo sitios web con React.</li>
   <li>🌱 Actualmente me encuentro estudiando Ingeniería Informática.</li>
   <li>💼 Desarrollador front-end trainee.</li>
   <li>🧐 Portafolio:  </li>
@@ -16,10 +16,10 @@
 const gonzalo = {
   pronombres: "él" | "su",
   codigo: ["HTML", "CSS", "JS", "C"],
-  preguntameSobre: ["desarrollo web", "frdesarrollo front-end", "react", "teconología"],
+  preguntameSobre: ["desarrollo web", "desarrollo front-end", "react", "teconología"],
   tecnologias: {
       front-end: ["TYPESCRIPT", "REACT", "TAILWINDCSS", "NEXTJS"],
-      back-end: ["NODE"],
+      back-end: ["NODE", "MONGODB", "POSTGRESQL"],
   }
 }
 ```
